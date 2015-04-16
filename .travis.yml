@@ -1,0 +1,11 @@
+language: java
+
+jdk:
+ - oraclejdk8
+
+notifications: 
+ email:
+
+  - gmuswe15@gmail.com
+
+  - garg-sonum@hotmail.com - groupmember@email.com
